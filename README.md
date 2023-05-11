@@ -1,4 +1,9 @@
-### Hi there 👋
+Olá, meu nome é Vinícius e sou estudante de Sistemas de Informação na PUC Minas. 
+
+Me interesso bastante pela área de desenvolvimento de software e atualmente tenho me dedicado a estudar as seguintes ferramentas para front-end: HTML, Css e Java Script. Para back-end tenho me dedicado a estudar a linguagem C#. 
+
+Logo abaixo, você pode conferir alguns dos meus repositórios aos quais utilizei cada uma dessas linguagens. 
+
 
 <!--
 **ViniciusCelio/ViniciusCelio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
